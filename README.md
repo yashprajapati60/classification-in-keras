@@ -120,17 +120,17 @@ The objective of this project is to provide a clear and practical understanding 
 └── requirements.txt                # Python dependencies
 
 ## ▶ 7. How to Run the Project
-- 7.1 Clone the Repository
-    git clone https://github.com/your-username/Classification-in-Keras.git
-    cd Classification-in-Keras
+- 7.1 Clone the Repository: 
+    > git clone https://github.com/your-username/Classification-in-Keras.git
+    > cd Classification-in-Keras
 
-- 7.2 Install Dependencies
-    pip install tensorflow keras numpy pandas matplotlib
+- 7.2 Install Dependencies: 
+    > pip install tensorflow keras numpy pandas matplotlib
 
-- 7.3 Open the Notebook
-    jupyter notebook Classification_in_Keras.ipynb
+- 7.3 Open the Notebook:
+    > jupyter notebook Classification_in_Keras.ipynb
 
-- 7.4 Execute the Notebook
+- 7.4 Execute the Notebook:
 
   - Run all cells sequentially
 
