@@ -108,9 +108,9 @@ The objective of this project is to provide a clear and practical understanding 
 
 - Preprocessing Techniques:
 
- -Feature scaling
+   - Feature scaling
 
- -Encoding (if applicable)
+   - Encoding (if applicable)
 
 ## 📁 6. Repository Structure
 - Classification-in-Keras/
@@ -121,34 +121,34 @@ The objective of this project is to provide a clear and practical understanding 
 
 ## ▶ 7. How to Run the Project
 - 7.1 Clone the Repository
-    - git clone https://github.com/your-username/Classification-in-Keras.git
-    - cd Classification-in-Keras
+    git clone https://github.com/your-username/Classification-in-Keras.git
+    cd Classification-in-Keras
 
 - 7.2 Install Dependencies
-    - pip install tensorflow keras numpy pandas matplotlib
+    pip install tensorflow keras numpy pandas matplotlib
 
 - 7.3 Open the Notebook
-    - jupyter notebook Classification_in_Keras.ipynb
+    jupyter notebook Classification_in_Keras.ipynb
 
 - 7.4 Execute the Notebook
 
-Run all cells sequentially
+  - Run all cells sequentially
 
-- Modify hyperparameters to experiment with performance
+  - Modify hyperparameters to experiment with performance
 
-- Enable GPU if running on Google Colab
+  - Enable GPU if running on Google Colab
 
 ## 🎯 8. Key Learning Outcomes
 
-Understanding ANN-based classification, 
+    - Understanding ANN-based classification, 
 
-Building neural networks using Keras Sequential API, 
+    - Building neural networks using Keras Sequential API, 
 
-Applying activation functions effectively, 
+    - Applying activation functions effectively, 
 
-Training and evaluating deep learning models, 
+    - Training and evaluating deep learning models, 
 
-Working with real-world tabular datasets, 
+    - Working with real-world tabular datasets, 
 
 ## ✨ 9. Author
 
